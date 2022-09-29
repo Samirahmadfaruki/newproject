@@ -1,5 +1,6 @@
 // //DRY : Don't Repeat your self
 const sql=require('./db');
+c
 
 // exports.getAll=function(){
 //    return new Promise(resolve=>{
